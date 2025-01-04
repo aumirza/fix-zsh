@@ -1,3 +1,5 @@
+<img src="images/fix-zsh-logo.png" alt="fix-zsh" height="100" width="100"/>
+
 # Fix-zsh
 
 A CLI tool to fix zsh corrupted history.
