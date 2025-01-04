@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "CLI tool to fix your corrupted zsh history.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aumirza/fix-zsh.git"
+  },
   "scripts": {
     "build": "tsc",
     "lint": "eslint .",
