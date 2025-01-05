@@ -14,7 +14,8 @@
     "lint:fix": "eslint src/**/* --fix",
     "format": "prettier --write src/**/*",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prepare": "husky"
+    "prepare": "husky",
+    "release": "release-it"
   },
   "bin": {
     "fix-zsh": "dist/index.js"
@@ -37,6 +38,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^15.3.0",
     "prettier": "3.4.2",
+    "release-it": "^17.11.0",
     "typescript": "^5.7.2",
     "typescript-eslint": "^8.19.0"
   },
