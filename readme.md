@@ -1,10 +1,37 @@
-<img src="images/fix-zsh-logo.png" alt="fix-zsh" height="100" width="100"/>
+<p align="center">
+<img style="" src="images/fix-zsh-logo.png" alt="fix-zsh"  width="200"/>
+<h1 style="border:none;margin:0;" align="center">Fix-zsh</h1>
+<p align="center">A CLI tool to fix zsh corrupted history.</p>
 
-# Fix-zsh
+<p align="center">
+<img  src="https://img.shields.io/github/license/aumirza/fix-zsh" alt="GitHub License" />
+<img src="https://img.shields.io/npm/dw/fix-zsh" alt="downloads"/>
+</p>
 
-A CLI tool to fix zsh corrupted history.
+<p align="center">
+  <!-- <a href="#about">Explore the docs »</a>    -->
+  <a href="https://www.npmjs.com/package/fix-zsh">View live. </a>  
+  <a href="https://github.com/aumirza/fix-zsh/issues">Report Bug. </a>   
+  <a href="https://github.com/aumirza/fix-zsh/issues">Request Feature</a>
+</p>
 
-![GitHub License](https://img.shields.io/github/license/aumirza/fix-zsh)
+</p>
+
+<hr/>
+
+## 🚀 Have you came across this annoying error?
+
+As a developer and zsh enthusiast, I often came across the annoying error:
+
+```bash
+zsh: corrupt history file /home/<user>/.zsh_history
+```
+
+This tool will fix this error and restore history.
+
+## Installation
+
+Not required, Just run the npx script
 
 ## Usage
 
@@ -17,6 +44,13 @@ npx fix-zsh@latest
 - Easy to use
 - Cross platform
 - No setup required
+- No installation required
+
+## How it works
+
+Here's Full guide on [my blog](https://blog.ahmadullah.in/troubleshooting-zsh-corrupt-history)
+
+<img src="images/fix-zsh_working_gitdiagram.jpeg" alt="fix-zsh_working"/>
 
 ## Authors
 
