@@ -23,7 +23,14 @@
   "keywords": [
     "zsh",
     "fix",
-    "corrupt history"
+    "node",
+    "terminal",
+    "linux",
+    "windows",
+    "macos",
+    "commandline",
+    "cli",
+    "tool"
   ],
   "author": "Ahamdullah Mirza <dev@ahmadullah.in> (https://www.ahmadullah.in)",
   "license": "MIT",
